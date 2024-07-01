@@ -70,7 +70,7 @@
   };
 
   # User
-  users.users.nick = {
+  users.users.andrei = {
     isNormalUser = true;
     shell = pkgs.zsh;
     extraGroups = [ "wheel" "networkmanager" ];
